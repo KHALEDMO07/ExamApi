@@ -1,9 +1,0 @@
-# Ignore Visual Studio temporary files, build results, and
-# Windows file system files
-.vs/
-*.user
-*.suo
-*.cache
-*.log
-bin/
-obj/
